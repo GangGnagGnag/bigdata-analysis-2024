@@ -10,8 +10,7 @@
 2. 서울 열린데이터 광장 Open API(https://data.seoul.go.kr/)
 
 - 지도 시각화 
-      
-      ![매장수사업체비교](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba010.png)
+    ![매장수사업채비교](https://raw.githubusercontent.com/GangGnagGnag/bigdata-analysis-2024/main/images/ba010.png)
 
 ##### 무선청소기 인기상품 비교분석
 1. 다나와 사이트(https://www.danawa.com/)
@@ -30,6 +29,5 @@
 - 전처리
       - 결측지, 이상치 처리(수동, fillna(), dropna() 등)
 - 가성비 좋은 제품 시각화
-
-![시각화](https://raw.githubusercontent.com/hugoMGSung/bigdata-analysis-2024/main/images/ba011.png)
+    ![시각화](https://raw.githubusercontent.com/GangGnagGnag/bigdata-analysis-2024/main/images/ba011.png)
 
