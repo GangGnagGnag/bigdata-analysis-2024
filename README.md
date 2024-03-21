@@ -16,7 +16,7 @@
         - Matplotlib 사용법 학습
         - selenium 사용법 진행중
 
-## [3일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/mdFolder/main/Day03.md)
+## [3일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day03.md)
 - 빅데이터 학습
     - 빅데이터 분석 기초(계속)
         - selenium 사용법
