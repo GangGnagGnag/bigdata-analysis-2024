@@ -26,10 +26,3 @@
 - 결측지 검색, 제거
 
     ![상관분석히트맵](https://raw.githubusercontent.com/GangGnagGnag/bigdata-analysis-2024/main/images/ba014.png)
-
-
-
-
-## 11일차 학습
-- 빅데이터 실습
-    - OpenAPI 기반 크롤링 실습

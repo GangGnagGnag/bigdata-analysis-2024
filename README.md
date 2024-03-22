@@ -49,7 +49,7 @@
     - 스타벅스 입지 선정 분석
     - 무선청소기 종류 분석
 
-## [8일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day07.md)
+## [8일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day08.md)
 - 빅데이터 실습
     - 무선청소기 종류 분석
     - 개인실습(다나와 개인 선호제품 크롤링)
@@ -61,5 +61,11 @@
     
 ## [10일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day10.md)
 - 빅데이터 실습
-    - OpenAPI 기반 크롤링 실습
+    - OpenAPI 기반 크롤링실습
     - 통계 분석(와인품질) 리뷰(완)
+
+## [11일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day11.md)
+- 빅데이터 실습
+    - 머신러닝 실습
+    - 환경에 따른 주택가격 예측
+    - 항목에 따른 자동차 연비 예측
