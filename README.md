@@ -75,6 +75,9 @@
 - 머신러닝 실습
     - 로지스틱회귀 분석
     - 결정트리 분석
+    -  텍스트 마이닝, 감성분석
+        - 영화리뷰 데이터로 감성예측
 
-#### 텍스트 마이닝
-- 영화리뷰 데이터로 감성예측
+## [13일차](https://github.com/GangGnagGnag/bigdata-analysis-2024/blob/main/mdFolder/Day13.md)
+- 머신러닝 실습
+    - 텍스트 마이닝, 감성분석
